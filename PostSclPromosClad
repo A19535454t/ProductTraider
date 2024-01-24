@@ -1,0 +1,14 @@
+INSERT INTO scl_PromosClad (
+                               PC_ID,
+                               PC_P_ID,
+                               PC_TYPE,
+                               PC_VALUE,
+                               PC_EXCL
+                           )
+                           VALUES (
+                               ?,  --PC_ID
+                               ?, --PC_P_ID
+                               ?, --PC_TYPE
+                               ?, --PC_VALUE
+                               ?, --PC_EXCL
+                           );

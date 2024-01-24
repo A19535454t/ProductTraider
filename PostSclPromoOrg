@@ -1,0 +1,14 @@
+INSERT INTO scl_PromoOrg (
+                             PO_ID,
+                             PO_P_ID,
+                             PO_TYPE,
+                             PO_VALUE,
+                             PO_EXCL
+                         )
+                         VALUES (
+                             ?, --PO_ID
+                             ?, --PO_P_ID
+                             ?, --PO_TYPE
+                             ?, --PO_VALUE
+                             ?, --PO_EXCL
+                         );

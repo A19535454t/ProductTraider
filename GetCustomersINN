@@ -1,0 +1,16 @@
+SELECT N_User,
+       NameUser,
+       UrNameUser,
+       INN,
+       KPP,
+       PhoneNumber,
+       Email,
+       Country,
+       City,
+       Street,
+       House,
+       Apartm,
+       Region,
+       RouteId
+  FROM customers
+  where INN = ?;

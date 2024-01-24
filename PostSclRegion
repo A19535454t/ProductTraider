@@ -1,0 +1,8 @@
+INSERT INTO regions (
+                        Id,
+                        NameRegion
+                    )
+                    VALUES (
+                        ?, --Id
+                        ?, --NameRegion
+                    );

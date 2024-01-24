@@ -1,0 +1,32 @@
+INSERT INTO customers (
+                          N_User,
+                          NameUser,
+                          UrNameUser,
+                          INN,
+                          KPP,
+                          PhoneNumber,
+                          Email,
+                          Country,
+                          City,
+                          Street,
+                          House,
+                          Apartm,
+                          Region_Id,
+                          RouteId
+                      )
+                      VALUES (
+                          ?, --N_User,
+                          ?, --NameUser,
+                          ?, --UrNameUser
+                          ?, --INN
+                          ?, --KPP
+                          ?, --PhoneNumber
+                          ?, --Email
+                          ?, --Country
+                          ?, --City
+                          ?, --Street
+                          ?, --House
+                          ?, --Apartm
+                          ?, --Region_Id
+                          ?, --RouteId
+                      );

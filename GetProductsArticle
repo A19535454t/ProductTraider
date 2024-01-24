@@ -1,0 +1,22 @@
+SELECT Article,
+       NameArtic,
+       S100,
+       StrikeCode,
+       Unit,
+       PackageUnits,
+       Group1,
+       Group2,
+       Group3,
+       Group4,
+       TypeTovr,
+       Maker,
+       Ball1,
+       Ball4,
+       BasePrice,
+       Weight,
+       EGAIS,
+       Merkuriy,
+       Zerno,
+       Picture
+  FROM products
+  Where Article = ?;

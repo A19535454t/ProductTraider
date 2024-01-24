@@ -1,0 +1,17 @@
+INSERT INTO scl_PromoItems (
+                               PI_P_ID,
+                               PI_ITEM_TYPE,
+                               PI_ITEM_VALUE,
+                               PI_DISC_TYPE,
+                               PI_DISC_VALUE,
+                               PI_DISC_MODE
+                           )
+                            VALUES
+                            
+                          (?, -- PI_P_ID 
+                           ?, -- PI_ITEM_TYPE
+                          ?, --PI_ITEM_VALUE
+                          ?, --PI_DISC_TYPE
+                          ?, --PI_DISC_VALUE
+                          ?, --PI_DISC_MODE
+                          )

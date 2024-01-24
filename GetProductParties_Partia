@@ -1,0 +1,7 @@
+SELECT Partia,
+       Article,
+       DateOfPartia,
+       KolcPredm,
+       MarkQR
+  FROM productParties
+  Where Partia = ?;

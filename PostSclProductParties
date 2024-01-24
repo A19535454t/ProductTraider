@@ -1,0 +1,14 @@
+INSERT INTO productParties (
+                               Partia,
+                               Article,
+                               DateOfPartia,
+                               KolcPredm,
+                               MarkQR
+                           )
+                           VALUES (
+                               ?,  --Partia
+                               ?, --Article
+                               ?, --DateOfPartia
+                               ?, --KolcPredm
+                               ?, --MarkQR
+                           );

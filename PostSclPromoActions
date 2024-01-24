@@ -1,0 +1,16 @@
+INSERT INTO promoActions (
+                             Id,
+                             NamePromo,
+                             Description,
+                             DateStart,
+                             DateFinish,
+                             Discount
+                         )
+                         VALUES (
+                             ?, --Id
+                             ?, --NamePromo
+                             ?, --Description
+                             ?, --DateStart
+                             ?, --DateFinish
+                             ?, --Discount
+                         );

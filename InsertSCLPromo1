@@ -1,0 +1,16 @@
+INSERT INTO scl_Promo (
+                          P_NAME,
+                          P_DATE1,
+                          P_DATE2,
+                          P_COMMENT
+                      )
+ VALUES ('LYOVW', '1998-06-13', '1979-05-17', '2ECD9EP2LSSQ2QJM'),
+        ('KZABH', '1991-11-04', '1974-09-05', 'CA15V17Q0QP9QXP3'),
+        ('XMFJE', '2003-08-23', '2021-01-28', 'QX6KXDCO38QZ94ZN'),
+        ('VFLBM', '1999-07-12', '2017-03-12', 'KH91RXC9IF96QZIG'),
+        ('XYGFY', '2008-09-19', '1989-04-08', 'KLVN54GIXEVA15AK'),
+        ('JYFLW', '1997-10-22', '1999-06-21', 'A1IRFLXL3O6RRS4A'),
+        ('ZZGJJ', '1985-06-01', '1978-03-05', '74U88IVMGQVZKKOE'),
+        ('FVBCR', '1999-01-30', '2016-01-30', '8UHQN6X7YSKGHRS4'),
+        ('VGPGR', '1975-05-27', '1973-09-17', '6RADYF76D16E6G1P'),
+        ('SSXQL', '1972-06-18', '1992-10-07', 'PIXKVMCCEUQMKBCN');               

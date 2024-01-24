@@ -1,0 +1,8 @@
+SELECT Id,
+       NamePromo,
+       Description,
+       DateStart,
+       DateFinish,
+       Discount
+  FROM promoActions
+  Where DateFinish = ?;

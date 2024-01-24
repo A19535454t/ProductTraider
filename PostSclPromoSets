@@ -1,0 +1,17 @@
+INSERT INTO scl_PromoSets (
+                              PS_ID,
+                              PS_PI_ID,
+                              PS_ART,
+                              PS_Q,
+                              PS_GRP,
+                              PS_TYPE
+                          )
+                          VALUES (
+                              ?, --PS_ID
+                              ?, --PS_PI_ID
+                              ?, --PS_ART
+                              ?, --PS_Q
+                              ?, --PS_GRP
+                              
+                              ?, --PS_TYPE
+                          );

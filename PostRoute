@@ -1,0 +1,10 @@
+INSERT INTO routes (
+                       Id,
+                       NameRoute,
+                       RegionId
+                   )
+                   VALUES (
+                       ?, --Id
+                       ?, --NameRoute
+                       ?, --RegionId
+                   );
