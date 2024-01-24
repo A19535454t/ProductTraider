@@ -13,4 +13,5 @@ SELECT N_User,
        Region,
        RouteId
   FROM customers
-  where N_User = ?;
+  where N_User = ?
+  Order by 1;
