@@ -1,0 +1,8 @@
+SELECT PS_ID,
+       PS_PI_ID,
+       PS_ART,
+       PS_Q,
+       PS_GRP,
+       PS_TYPE
+  FROM scl_PromoSets
+  Where PS_ART = ?;

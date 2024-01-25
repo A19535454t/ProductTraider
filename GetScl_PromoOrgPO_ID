@@ -1,0 +1,7 @@
+SELECT PO_ID,
+       PO_P_ID,
+       PO_TYPE,
+       PO_VALUE,
+       PO_EXCL
+  FROM scl_PromoOrg
+  Where PO_ID = ?;

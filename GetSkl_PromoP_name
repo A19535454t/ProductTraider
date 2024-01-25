@@ -1,0 +1,13 @@
+SELECT P_ID,
+       P_NAME,
+       P_DATE1,
+       P_DATE2,
+       P_SCL_TYPE,
+       P_SCL_VALUE,
+       P_ORG_TYPE,
+       P_ORG_VALUE,
+       P_COMMENT,
+       P_GUID,
+       P_MAXSUM
+  FROM scl_Promo
+  Where P_NAME = ?;

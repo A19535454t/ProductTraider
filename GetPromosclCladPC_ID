@@ -1,0 +1,7 @@
+SELECT PC_ID,
+       PC_P_ID,
+       PC_TYPE,
+       PC_VALUE,
+       PC_EXCL
+  FROM scl_PromosClad
+  Where PC_P_ID = ?;
